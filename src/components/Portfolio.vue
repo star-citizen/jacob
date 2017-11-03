@@ -7,9 +7,13 @@
 <script>
 	import portfolioItem from './PortfolioItem'
   import projects from '../data/projects.json'
+  import { swiper, swiperSlide } from 'vue-awesome-swiper'
+
 	export default {
     components: {
-      'portfolio-item': portfolioItem
+      'portfolio-item': portfolioItem,
+       swiper,
+       swiperSlide
     },
 		data () {
 			return {
