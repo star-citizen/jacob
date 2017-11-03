@@ -10,6 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "lazysizes": "^4.0.1",
     "vue": "^2.4.2",
     "vue-awesome-swiper": "^2.6.7",
     "vue-router": "^2.7.0"
