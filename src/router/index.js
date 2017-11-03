@@ -11,23 +11,23 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'Portfolio',
+      name: 'portfolio',
       component: Portfolio
     },
     {
       path: '/resume',
-      name: 'Resume',
+      name: 'resume',
       component: Resume
     },
     {
       path: '/contact',
-      name: 'Contact',
+      name: 'contact',
       component: Contact
     },
     {
       path: '*',
       redirect: {
-      name: 'Portfolio',
+      name: 'portfolio',
     },
     },
   ]

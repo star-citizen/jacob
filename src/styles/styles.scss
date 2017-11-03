@@ -11,29 +11,40 @@ h1, h2, h3, h4, h5, h6 {
 }
 .project-header .title {
 	font-size: 14px;
-    font-size: 1.0rem;
+    font-size: 1.5rem;
     margin: 0;
     text-transform: uppercase;
     letter-spacing: 1px;
     color: #545454!important;
 }
-.nav {
+.card-header-title {
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    font-size: 1.0rem;
+    font-weight: 600;
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #545454!important;
+}
+.navbar {
     height: 5.25rem;
 }
-.nav-item img {
+.navbar-item img {
 	max-height: 4.75rem;
 }
-.hero.is-primary .nav {
+.hero.is-primary .navbar {
 	background-color: #fff;
 }
-.hero.is-primary a.nav-item {
+.hero.is-primary a.navbar-item {
 	color: #333;
 }
-.hero.is-primary a.nav-item:hover {
+.hero.is-primary a.navbar-item:hover {
 	color: green;
 }
-.hero.is-primary a.nav-item.is-active {
-	color: green;
+.hero.is-primary a.navbar-item.is-active {
+	color: #545454; 
+    background-color: #fff;
 }
 .videoWrapper {
     position: relative;

@@ -2,25 +2,31 @@
   <div id="app">
   <section class="hero is-primary">
    <div class="hero-head">
-    <header class="nav">
+    <nav class="navbar">
       <div class="container">
-        <div class="nav-left">
-          <a class="nav-item">
+        <div class="navbar-brand">
+          <a class="navbar-item">
             <img src="./assets/gilbert.png">
           </a>
+          <span class="navbar-burger burger">
+          <span></span>
+          <span></span>
+          <span></span>
+          </span>
         </div>
-        <span class="nav-toggle">
-          <span></span>
-          <span></span>
-          <span></span>
-        </span>
-        <div class="nav-right nav-menu">
-          <a class="nav-item is-active" v-for="item in items" :value="item.active" :key="item.title" slot="item" :href="item.href" :to="{name: item.href}" exact>
-            {{ item.title }}          
-          </a>
+        <div class="navbar-end navbar-menu">
+          <router-link to="portfolio" class="navbar-item is-active">
+            Portfolio          
+          </router-link>
+          <router-link to="resume" class="navbar-item is-active">
+            Resume          
+          </router-link>
+          <router-link to="contact" class="navbar-item is-active">
+            Contact          
+          </router-link>
         </div>
       </div>
-    </header>
+    </nav>
   </div>
   <div class="hero is-primary is-bold">
     <div class="hero-body">
@@ -51,24 +57,8 @@ export default {
   name: 'app',
   data () {
     return {
-        items: [{
-          href: 'Portfolio',
-          router: true,
-          title: 'Portfolio',
-          icon: 'work',
-          active: true,
-        }, {
-          href: 'Resume',
-          router: true,
-          title: 'Resume',
-          icon: 'assignment',
-        }, {
-          href: 'Contact',
-          router: true,
-          title: 'Contact',
-          icon: 'contact_mail',
-        }]
-    };
+
+    }
   }
 }
 </script>
