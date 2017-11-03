@@ -1,0 +1,231 @@
+{
+
+  "tumbleweed-express": {
+    "title": "Tumbleweed Express",
+    "video": "https://www.youtube.com/embed/7RaxFovXOiA?rel=0",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+    "cover": "livestorm.jpg",
+    "colors": {
+      "background": "#e6e7e8",
+      "text": "#ffffff"
+    },
+    "url": "https://livestorm.co",
+    "details": [
+      {
+        "thumbnails": ["livestorm-1.jpg"]
+      }
+    ]
+  },
+
+  "trials-by-torchlight": {
+    "title": "Trials By Torchlight",
+    "subtitle": "Datavisualisation",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "cover": "datafrance.jpg",
+    "colors": {
+      "background": "#f5f5f5",
+      "text": "#ffffff"
+    },
+    "url": "http://datafrance.info",
+    "details": [
+      {
+        "title": "Visualisation cartographique",
+        "description": "La version cartographique de DataFrance permet de visualiser des données sur l'ensemble de la France à différents niveaux d'échelle : par région, département, commune, ou encore par quartier selon la précision des données fournies par les producteurs.",
+        "thumbnails": ["datafrance-1.jpg"]
+      },
+      {
+        "title": "Fiche commune",
+        "description": "Les fiches communes DataFrance permettent de visualiser de nombreuses données associées à une commune sous forme graphique et cartographique.",
+        "thumbnails": ["datafrance-2.jpg", "datafrance-3.jpg"]
+      }
+    ]
+  },
+
+  "gnop": {
+    "title": "GNOP",
+    "subtitle": "Datavisualisation",
+    "description": "Des données sur Paris et les Parisiens localisées par le biais du réseau métropolitain.",
+    "cover": "dataparis.jpg",
+    "colors": {
+      "background": "#e6e7e8",
+      "text": "#222222"
+    },
+    "url": "http://dataparis.io",
+    "details": [
+      {
+        "thumbnails": ["dataparis-1.jpg", "dataparis-2.jpg"]
+      }
+    ]
+  },
+
+  "climby": {
+    "title": "Climby",
+    "subtitle": "A lightweight JavaScript library for creating particles",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "cover": "particlesjs.jpg",
+    "colors": {
+      "background": "#f5f5f5",
+      "text": "#ffffff"
+    },
+    "url": "http://vincentgarreau.com/particles.js",
+    "details": [
+      {
+        "thumbnails": ["particlesjs-1.jpg"]
+      }
+    ]
+  },
+
+  "snake-escape": {
+    "title": "Snake Escape",
+    "subtitle": "WebGL",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "cover": "vendeeglobe3d.jpg",
+    "colors": {
+      "background": "#e6e7e8",
+      "text": "#ffffff"
+    },
+    "url": "http://devserver.me/vendeeglobe3d",
+    "details": [
+      {
+        "title": "Changement climatique en temps réel",
+        "thumbnails": ["vendeeglobe3d-2.jpg", "vendeeglobe3d-3.jpg"]
+      },
+      {
+        "title": "Visualisation cartographique",
+        "thumbnails": ["vendeeglobe3d-1.jpg"]
+      }
+    ]
+  },
+
+  "moonshadow": {
+    "title": "Skyrim - Moonshadow",
+    "subtitle": "WebGL",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "cover": "vendeeglobe3d.jpg",
+    "colors": {
+      "background": "#e6e7e8",
+      "text": "#ffffff"
+    },
+    "url": "http://devserver.me/vendeeglobe3d",
+    "details": [
+      {
+        "title": "Changement climatique en temps réel",
+        "thumbnails": ["vendeeglobe3d-2.jpg", "vendeeglobe3d-3.jpg"]
+      },
+      {
+        "title": "Visualisation cartographique",
+        "thumbnails": ["vendeeglobe3d-1.jpg"]
+      }
+    ]
+  },
+
+   "alkirscrypt": {
+    "title": "Skyrim - Alkir's Crypt",
+    "subtitle": "WebGL",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "cover": "vendeeglobe3d.jpg",
+    "colors": {
+      "background": "#e6e7e8",
+      "text": "#ffffff"
+    },
+    "url": "http://devserver.me/vendeeglobe3d",
+    "details": [
+      {
+        "title": "Changement climatique en temps réel",
+        "thumbnails": ["vendeeglobe3d-2.jpg", "vendeeglobe3d-3.jpg"]
+      },
+      {
+        "title": "Visualisation cartographique",
+        "thumbnails": ["vendeeglobe3d-1.jpg"]
+      }
+    ]
+  },
+
+   "paintsketball": {
+    "title": "Portal 2 - Paintsketball",
+    "subtitle": "WebGL",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "cover": "vendeeglobe3d.jpg",
+    "colors": {
+      "background": "#e6e7e8",
+      "text": "#ffffff"
+    },
+    "url": "http://devserver.me/vendeeglobe3d",
+    "details": [
+      {
+        "title": "Changement climatique en temps réel",
+        "thumbnails": ["vendeeglobe3d-2.jpg", "vendeeglobe3d-3.jpg"]
+      },
+      {
+        "title": "Visualisation cartographique",
+        "thumbnails": ["vendeeglobe3d-1.jpg"]
+      }
+    ]
+  },
+
+   "goingballistic": {
+    "title": "L4D2 - Going Ballistic",
+    "subtitle": "WebGL",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "cover": "vendeeglobe3d.jpg",
+    "colors": {
+      "background": "#e6e7e8",
+      "text": "#ffffff"
+    },
+    "url": "http://devserver.me/vendeeglobe3d",
+    "details": [
+      {
+        "title": "Changement climatique en temps réel",
+        "thumbnails": ["vendeeglobe3d-2.jpg", "vendeeglobe3d-3.jpg"]
+      },
+      {
+        "title": "Visualisation cartographique",
+        "thumbnails": ["vendeeglobe3d-1.jpg"]
+      }
+    ]
+  },
+
+   "touchpadheroes": {
+    "title": "Touchpad Heroes",
+    "subtitle": "WebGL",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "cover": "vendeeglobe3d.jpg",
+    "colors": {
+      "background": "#e6e7e8",
+      "text": "#ffffff"
+    },
+    "url": "http://devserver.me/vendeeglobe3d",
+    "details": [
+      {
+        "title": "Changement climatique en temps réel",
+        "thumbnails": ["vendeeglobe3d-2.jpg", "vendeeglobe3d-3.jpg"]
+      },
+      {
+        "title": "Visualisation cartographique",
+        "thumbnails": ["vendeeglobe3d-1.jpg"]
+      }
+    ]
+  },
+
+   "gilbertescape": {
+    "title": "Gilbert's Great Escape",
+    "subtitle": "WebGL",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "cover": "vendeeglobe3d.jpg",
+    "colors": {
+      "background": "#e6e7e8",
+      "text": "#ffffff"
+    },
+    "url": "http://devserver.me/vendeeglobe3d",
+    "details": [
+      {
+        "title": "Changement climatique en temps réel",
+        "thumbnails": ["vendeeglobe3d-2.jpg", "vendeeglobe3d-3.jpg"]
+      },
+      {
+        "title": "Visualisation cartographique",
+        "thumbnails": ["vendeeglobe3d-1.jpg"]
+      }
+    ]
+  }  
+}

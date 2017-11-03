@@ -1,0 +1,47 @@
+body, h1, h2, h3, h4, h5, h6 {
+	font-family: 'Nunito', sans-serif;
+}
+.project-header {
+	border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.project-header .title {
+	font-size: 14px;
+    font-size: 1.0rem;
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #545454!important;
+}
+.nav {
+    height: 5.25rem;
+}
+.nav-item img {
+	max-height: 4.75rem;
+}
+.hero.is-primary .nav {
+	background-color: #fff;
+}
+.hero.is-primary a.nav-item {
+	color: #333;
+}
+.hero.is-primary a.nav-item:hover {
+	color: green;
+}
+.hero.is-primary a.nav-item.is-active {
+	color: green;
+}
+.videoWrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+}
+.videoWrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
